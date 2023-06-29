@@ -16,6 +16,7 @@ export default function Home({ allPostsData }) {
         <p>
           이건 디벨롭 브랜치야.
         </p>
+        <p>개발계에서 작업한 내용</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
