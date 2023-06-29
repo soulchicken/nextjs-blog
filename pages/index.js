@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>나는 소울치킨이다.</p>
         <p>
-          샘플로 배포 함 돌려보는거야
+          이건 디벨롭 브랜치야.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
